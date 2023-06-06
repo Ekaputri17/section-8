@@ -1,1 +1,13 @@
-{}
+
+{
+    "baseUrl": "https://reqres.in/api",
+  "env": {
+    "userEmail": "eve.holt@reqres.in",
+    "userPassword": "cityslicka",
+    "apiUrl": "https://reqres.in/api"
+  },
+  "fixturesFolder": false,
+  "pluginsFile": false,
+  "chromeWebSecurity": true,
+  "video": false
+}
